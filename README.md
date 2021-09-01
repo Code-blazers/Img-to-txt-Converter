@@ -49,7 +49,7 @@
 
 •	Ashfaque Ahamed
 
-•	Fawauz Ashal
+•	Fauwaaz Ashal
 
 •	Salman Farish
 
