@@ -33,11 +33,11 @@
   
   In this we refer all the information related to this project.
   
-  **PPT drive link:** 
+  **PPT drive link:https://drive.google.com/folderview?id=1i_qDsWx1xoHXX-aDnR4-MppBL-Aor8K7** 
   
-  **Wireframe link :**
+  **Wireframe link :https://drive.google.com/folderview?id=1iRQBz8TPEZ8l_gCtUthQta31G7BES_e7**
   
-  **Demo video link :**
+  **Demo video link :https://drive.google.com/folderview?id=1i_qDsWx1xoHXX-aDnR4-MppBL-Aor8K7**
 
 # Contributors:
 
