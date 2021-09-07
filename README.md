@@ -21,7 +21,7 @@
  
 # How to use :
 
-	Upload your image in upload button,
+	Upload your image in upload button, img should be in high quality
   
 	Select the language of the text in your image. (optional)
   
