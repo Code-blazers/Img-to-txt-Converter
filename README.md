@@ -41,7 +41,7 @@
 
 # Contributors:
 
- **Our team name :  Codeblazzers**
+ **Our team name :  Code-blazers**
  
 **Team Members :**
 
