@@ -45,11 +45,11 @@
  
 **Team Members :**
 
-•	Afrar Ahamed
+•	Fauwaaz Ashal 
 
 •	Ashfaque Ahamed
 
-•	Fauwaaz Ashal
+•	Afrar ahamed 
 
 •	Salman Farish
 
