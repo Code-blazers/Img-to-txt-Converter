@@ -51,7 +51,7 @@
 
 •	Afrar ahamed 
 
-•	Salman Farish
+•	Salman Farish <a href="https://github.com/CaptainGlobe2">Git</a>
 
 •	Suhail Basha
 
