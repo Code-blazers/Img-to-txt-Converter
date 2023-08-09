@@ -603,8 +603,8 @@ p {
 
 }
 #copybtn:hover{
-  background-color: gray;
-  color: white;
+  background-color: white;
+  color: crimson;
 }
 #txtbtn{
   position: relative;
